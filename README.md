@@ -10,8 +10,8 @@ If the number is odd or even.
 
 
 ## Example of Game:
+<img width="556" height="471" alt="image" src="https://github.com/user-attachments/assets/92b0c9b5-42a9-427a-a329-3ed4a185a6ca" />
 
-<img width="555" height="582" alt="image" src="https://github.com/user-attachments/assets/8132386c-45a3-40d3-a6c3-e8919bb0ab63" />
 
 ## Additional info:
 
